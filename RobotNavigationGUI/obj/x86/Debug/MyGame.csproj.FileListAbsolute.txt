@@ -1,0 +1,205 @@
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\.DS_Store
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\SwinGame.icns
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\SwinGame.ico
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\animations\.DS_Store
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\animations\startup.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\bundles\splash.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\.DS_Store
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\fdFile.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\fdFolder.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\sounds\error.wav
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\MyGame.exe.config
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\MyGame.exe
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\MyGame.pdb
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\bin\Debug\SwinGame.dll
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\obj\x86\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\obj\x86\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\obj\x86\Debug\MyGame.csproj.CopyComplete
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\obj\x86\Debug\MyGame.exe
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\OOP\Doubtfire\3.1P\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\obj\x86\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\obj\x86\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\obj\x86\Debug\MyGame.exe
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\SwinGame.icns
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\SwinGame.ico
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\animations\startup.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\bundles\splash.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\fdFile.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\fdFolder.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\sounds\error.wav
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\MyGame.exe.config
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\MyGame.exe
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\MyGame.pdb
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\bin\Debug\SwinGame.dll
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\3.1P\obj\x86\Debug\MyGame.csproj.CopyComplete
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\SwinGame.icns
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\SwinGame.ico
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\animations\startup.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\bundles\splash.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\fdFile.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\fdFolder.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\sounds\error.wav
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\MyGame.exe.config
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\MyGame.exe
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\MyGame.pdb
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\SwinGame.dll
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.csproj.CopyComplete
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.exe
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\SwinGame.icns
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\SwinGame.ico
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\animations\startup.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\bundles\splash.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\fdFile.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\fdFolder.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\sounds\error.wav
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\MyGame.exe.config
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\MyGame.exe
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\MyGame.pdb
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\bin\Debug\SwinGame.dll
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.csproj.CopyComplete
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.exe
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\4.1\obj\x86\Debug\MyGame.pdb
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\SwinGame.icns
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\SwinGame.ico
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\animations\startup.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\bundles\splash.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\fdFile.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\fdFolder.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\sounds\error.wav
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\MyGame.exe.config
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\MyGame.exe
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\MyGame.pdb
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\SwinGame.dll
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.csproj.CopyComplete
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.exe
+C:\Users\malte\Dropbox(2)\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\SwinGame.icns
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\SwinGame.ico
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\animations\startup.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\bundles\splash.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\fdFile.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\fdFolder.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\sounds\error.wav
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\MyGame.exe.config
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\MyGame.exe
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\MyGame.pdb
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\bin\Debug\SwinGame.dll
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.csproj.CopyComplete
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.exe
+C:\Users\somem\Dropbox\Swinburne University of Technology\Semester_2\Object-Orientated Programming\Doubtfire\5.2C\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.icns
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.ico
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\animations\startup.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\splash.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFile.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFolder.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\error.wav
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe.config
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.pdb
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\SwinGame.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.csproj.CopyComplete
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.exe
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.pdb

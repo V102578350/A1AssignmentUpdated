@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RobotNavigationAssignment": {
+      "commandName": "Project",
+      "commandLineArgs": "0 AS 0"
+    }
+  }
+}

@@ -1,0 +1,514 @@
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.icns
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.ico
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\animations\startup.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\splash.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFile.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFolder.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\error.wav
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe.config
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.pdb
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\SwinGame.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csproj.CopyComplete
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.exe
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csprojAssemblyReference.cache
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\netstandard.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.AppContext.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Console.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Data.Common.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Compression.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Http.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Ping.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Requests.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Security.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ObjectModel.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Claims.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Principal.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\RobotMazeNavigator.dll
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\RobotMazeNavigator.pdb
+C:\Users\somem\OneDrive\University\Year_2\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\pop_effect.wav
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.icns
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.ico
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\animations\startup.txt
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\splash.txt
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFile.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFolder.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\error.wav
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\pop_effect.wav
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe.config
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.pdb
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\netstandard.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.AppContext.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Console.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Data.Common.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Compression.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Http.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Ping.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Requests.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Security.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ObjectModel.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Claims.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Principal.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\RobotMazeNavigator.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\SwinGame.dll
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\RobotMazeNavigator.pdb
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csproj.CopyComplete
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.exe
+C:\Users\malte\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.icns
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\SwinGame.ico
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\animations\startup.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\bundles\splash.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFile.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\fdFolder.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\error.wav
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\pop_effect.wav
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe.config
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.pdb
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\netstandard.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.AppContext.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Console.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Data.Common.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Compression.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Http.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Ping.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Requests.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Security.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ObjectModel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Claims.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.Principal.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\RobotMazeNavigator.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\SwinGame.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csproj.CopyComplete
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.exe
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.pdb
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csprojAssemblyReference.cache
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.exe.manifest
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\bin\Debug\MyGame.application
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.exe.manifest
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\RobotNavigation\RobotNavigationGUI\obj\x86\Debug\MyGame.application
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\SwinGame.icns
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\SwinGame.ico
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\animations\startup.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\bundles\splash.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\fdFile.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\fdFolder.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\sounds\error.wav
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\sounds\pop_effect.wav
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\MyGame.exe.config
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\MyGame.exe.manifest
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\MyGame.application
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\MyGame.exe
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\MyGame.pdb
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\netstandard.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.AppContext.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Collections.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.ComponentModel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Console.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Data.Common.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Globalization.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.Compression.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Linq.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.Http.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.Ping.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.Requests.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.Security.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.ObjectModel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Reflection.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.Claims.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.Principal.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Threading.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\RobotMazeNavigator.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\bin\Debug\SwinGame.dll
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csprojAssemblyReference.cache
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\obj\x86\Debug\MyGame.exe.manifest
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\obj\x86\Debug\MyGame.application
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\obj\x86\Debug\RobotNavigationGUI.csproj.CopyComplete
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\obj\x86\Debug\MyGame.exe
+C:\Users\somem\OneDrive - Swinburne University\IAI\Assignments\Assignment 1\102578350_AI_1_Submission\RobotNavigationGUI\obj\x86\Debug\MyGame.pdb

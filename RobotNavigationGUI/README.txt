@@ -1,0 +1,2 @@
+TO FIND EXE GO TO
+BIN -> DEBUG -> MyGame.exe
